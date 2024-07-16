@@ -1,0 +1,24 @@
+{
+  "name": "com.autumns-assets.meta-folder-icons",
+  "version": "0.9.0",
+  "displayName": "Meta Folders",
+  "description": "Customize your editor's appearance with customizable & recolorable folder icons, asset name highlights and colorful hierarchy categories. All with a single right click, no prior setup required. Featuring many pre-made folder icons.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+ "keywords": [
+    "Folder",
+    "Custom",
+    "Customizable",
+	"Icon",
+	"Recolorable",
+	"Colors",
+	"Colorful"
+  ],
+  "author": {
+    "name": "Autumn",
+    "email": "support@bestgamestudio.org",
+    "url": "https://bestgamestudio.org"
+  }
+}
